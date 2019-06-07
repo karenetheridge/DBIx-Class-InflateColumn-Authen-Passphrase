@@ -1,4 +1,6 @@
-.*
-!.gitignore
-DBIx-Class-InflateColumn-Authen-Passphrase-*
-Debian_CPANTS.txt
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/DBIx-Class-InflateColumn-Authen-Passphrase-*/
+/DBIx-Class-InflateColumn-Authen-Passphrase-*.tar.gz
