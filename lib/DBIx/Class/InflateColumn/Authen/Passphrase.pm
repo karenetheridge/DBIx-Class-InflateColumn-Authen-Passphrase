@@ -43,7 +43,7 @@ Provides inflation and deflation for Authen::Passphrase instances from and to
 either RFC 2307 or crypt encoding.
 
 To enable both inflating and deflating, C<inflate_passphrase> must be set to a
-valid passhrase encoding. Currently the only supported encodings are C<rfc2307>
+valid passphrase encoding. Currently the only supported encodings are C<rfc2307>
 and C<crypt>. The specified encoding will be used both when storing
 C<Authen::Passphrase> instances in columns, and when creating
 C<Authen::Passphrase> instances from columns. See L<Authen::Passphrase> for
