@@ -51,8 +51,8 @@ details on passphrase encodings.
 
 Note that not all passphrase schemes supported by C<Authen::Passphrase> can be
 represented in either RFC 2307 or crypt encoding. Chose the kind of passphrase
-encoding you're using based on the encoding the passphrase algorithms you're
-using support.
+encoding you're using based on the encoding supported by the passphrase algorithms
+you're using.
 
 When trying to encode a passphrase instance with an encoding that doesn't
 support it, an exception will be thrown. Similarly, when trying to load a
