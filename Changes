@@ -1,6 +1,7 @@
 Revision history for DBIx-Class-InflateColumn-Authen-Passphrase
 
 {{$NEXT}}
+  * add DBD::SQLite to test requirements (RT#90065)
 
 0.01      2010-12-09 15:04:21Z
   * Initial release.
