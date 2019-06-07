@@ -6,7 +6,6 @@ use FindBin;
 use lib "$FindBin::Bin/lib";
 
 use TestSchema;
-use SQL::Translator;
 use Authen::Passphrase::SaltedDigest;
 use Authen::Passphrase::BlowfishCrypt;
 
