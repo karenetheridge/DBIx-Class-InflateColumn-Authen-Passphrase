@@ -1,5 +1,7 @@
 Revision history for DBIx-Class-InflateColumn-Authen-Passphrase
 
+{{$NEXT}}
+
 0.03      2019-06-30 22:59:08Z
   * remove the implicit need for SQL::Translator in tests
 

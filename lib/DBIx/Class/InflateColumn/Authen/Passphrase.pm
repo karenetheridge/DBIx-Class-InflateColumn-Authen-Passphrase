@@ -4,7 +4,7 @@ use warnings;
 package DBIx::Class::InflateColumn::Authen::Passphrase;
 # ABSTRACT: Inflate/deflate columns to Authen::Passphrase instances
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use Authen::Passphrase;
 use parent 'DBIx::Class';
