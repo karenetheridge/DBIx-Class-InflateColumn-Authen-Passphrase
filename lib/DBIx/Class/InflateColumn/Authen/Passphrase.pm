@@ -50,7 +50,7 @@ C<Authen::Passphrase> instances from columns. See L<Authen::Passphrase> for
 details on passphrase encodings.
 
 Note that not all passphrase schemes supported by C<Authen::Passphrase> can be
-represented in either RFC 2307 or crypt encoding. Chose the kind of passphrase
+represented in either RFC 2307 or crypt encoding. Choose the kind of passphrase
 encoding you're using based on the encoding supported by the passphrase algorithms
 you're using.
 
